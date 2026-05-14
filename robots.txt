@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pforproperty.co.uk/sitemap.xml
